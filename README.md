@@ -70,4 +70,4 @@ This project also changed how I think about AI as a tool. I used AI not just to 
 
 *This is a concept prototype, not a live service. Nene does not store data between sessions.*
 
-*Built by [Your Name] — [your email or LinkedIn]*
+*Built by Brian*
