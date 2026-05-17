@@ -60,9 +60,9 @@ This project also changed how I think about AI as a tool. I used AI not just to 
 
 ## Design Details
 
-**Palette:** Slate (#3D3555) + Lavender (#B8A9D4) — chosen to feel calm and trustworthy without being clinical.
+**Palette:** Slate (#3D3555) + Lavender (#B8A9D4) — chosen to feel calm and trustworthy without being clinical. Initially I toyed with the idea of brighter, even neon colors but it didn't seem appropriate for the subject matter.
 
-**Typography:** Inter Tight (headings) + Palanquin (body) — tight, modern headings with soft, readable body text.
+**Typography:** Inter Tight (headings) + Palanquin (body) — modern headings with soft, readable body text.
 
 **Built as:** A single-file React application. No build step, no dependencies, no server. One HTML file that runs in any browser.
 
