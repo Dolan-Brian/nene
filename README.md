@@ -4,7 +4,7 @@
 
 Nene is an interactive prototype that explores how a conversational, guided experience could help people organize their accounts, contacts, and instructions so the people you love don't have to piece it together after you're gone.
 
-[Try the live prototype →](https://nene-portfolio.netlify.app)
+[Try the live prototype →](https://cerulean-belekoy-a45eaf.netlify.app/)
 
 ---
 
